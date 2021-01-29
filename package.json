@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "version": "auto-changelog -p --ignore-commit-pattern -i && git add CHANGELOG.md"
+    "version": "auto-changelog -p -t keepachangelog --ignore-commit-pattern -i && git add CHANGELOG.md"
   },
   "eslintConfig": {
     "extends": [
