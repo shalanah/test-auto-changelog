@@ -6,6 +6,7 @@
   height: 40vmin;
   pointer-events: none;
 }
+/* Add note */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
